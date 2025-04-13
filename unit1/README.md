@@ -27,4 +27,14 @@
 
 ## 範例程式碼
 
-* [hello.py](./hello.py)
+# 輸出 "Hello, Python!"
+print("Hello, Python!")
+
+# 變數範例
+message = "Welcome to Python!"
+print(message)
+
+# 簡單的數學運算
+x = 10
+y = 5
+print("x + y =", x + y)
