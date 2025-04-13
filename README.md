@@ -5,8 +5,9 @@
 ## 單元
 
 * [單元 1：Python 開發環境建立與第一支程式](./unit1/README.md)
-* [單元 2：Python 資料型別介紹與範例](./unit2/README.md)
-
+* [單元 2：Python 基礎資料型別介紹與範例](./unit2/README.md)
+* [單元 3：Python 進階資料型別介紹與範例](./unit3/README.md)
+  
 ## 如何使用
 
 1.  將本儲存庫複製到您的電腦。
